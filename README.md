@@ -6,11 +6,11 @@ Install npm packages using 'npm install' command Project Folder.
  
  # Step By Step Explanation
  
- Video Tutorial : https://youtu.be/xxx
+ Video Tutorial : https://youtu.be/m34FCkBd7UU
  
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=UYh6EvpQquw
-" target="_blank"><img src="http://img.youtube.com/vi/UYh6EvpQquw/0.jpg" 
-alt="Video Tutorial for MEAN Stack CRUD Operations" width="500" height="400" border="10" /></a>
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=m34FCkBd7UU
+" target="_blank"><img src="http://img.youtube.com/vi/m34FCkBd7UU/0.jpg" 
+alt="Video Tutorial for MEAN Stack User Registration" width="500" height="400" border="10" /></a>
 
 # All Video Tutorial Series
 | Series        | Video PlayList          |
