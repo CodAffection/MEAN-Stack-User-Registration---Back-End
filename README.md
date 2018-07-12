@@ -13,7 +13,7 @@ Install npm packages using 'npm install' command Project Folder.
 alt="Video Tutorial for MEAN Stack User Registration" width="500" height="400" border="10" /></a>
 
 # MEAN Stack Tutorial Hierarchy
-1. CRUD Operation in MEAN Stack ➤ https://goo.gl/LbQ4BM
+1. CRUD Operation - Insert Update View and Delete ➤ https://goo.gl/LbQ4BM
 2. User Registration - Node JS Backend ➤ this one
 
 # All Video Tutorial Series
