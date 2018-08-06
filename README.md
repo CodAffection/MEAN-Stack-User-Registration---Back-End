@@ -17,7 +17,10 @@ alt="Video Tutorial for MEAN Stack User Registration" width="500" height="400" b
 1. CRUD Operation - Insert Update View and Delete ➤ https://goo.gl/LbQ4BM
 2. User Registration 
     Node JS Back End ➤ this one <br/>
-    Angualr 6 Front End ➤ https://goo.gl/xivk4x
+    Angualr 6 Front End ➤ https://goo.gl/xivk4x <br/>
+3. JWT Authentication <br/>
+    Node JS Back End  ➤ https://goo.gl/9tWHXo
+
 
 # All Video Tutorial Series
 | Series        | Video PlayList          |
