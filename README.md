@@ -6,7 +6,7 @@ Install npm packages using 'npm install' command Project Folder.
  
  # Step By Step Explanation
  
- Text Article : https://goo.gl/qDWxEJ <br/>
+ Text Article : https://goo.gl/pPHCFG <br/>
  Video Tutorial : https://youtu.be/m34FCkBd7UU
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=m34FCkBd7UU
